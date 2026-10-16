@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Production builds
+dist/
+**/dist/
+dist-ssr/
+**/dist-ssr/
+
+# Temporary audio artifacts
+*.wav
+*.tmp
+*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.tdesigner
